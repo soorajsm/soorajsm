@@ -1,6 +1,7 @@
-### Hi there 👋
+![GghGKaZ8JeHJx0apQC](https://github.com/user-attachments/assets/2b03fe1c-834f-4264-8420-749b6ecfdc87)### Hi there 👋
 
-![Tech Coding GIF by Persona](https://github.com/user-attachments/assets/16d02f35-45fc-4452-bc39-cb05ee103866)
+[Uploading GghGKaZ8JeHJx0apQC.webp…]()
+
 
 <!--
 **soorajsm/soorajsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
