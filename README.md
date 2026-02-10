@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--![Uploading Tech Coding GIF by Persona.gif…]()
+![Tech Coding GIF by Persona](https://github.com/user-attachments/assets/16d02f35-45fc-4452-bc39-cb05ee103866)
 
 <script src="https://tryhackme.com/badge/1524220"></script>
+<!--
 **soorajsm/soorajsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
