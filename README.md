@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-![GghGKaZ8JeHJx0apQC](https://github.com/user-attachments/assets/2b03fe1c-834f-4264-8420-749b6ecfdc87)
-
-
-
-
 <!--
 **soorajsm/soorajsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
